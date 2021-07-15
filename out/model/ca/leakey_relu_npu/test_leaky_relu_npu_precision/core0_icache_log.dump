@@ -1,0 +1,892 @@
+[info] [00000000]: icache load data is 0x10cd1080
+[info] [00000000]: icache read address is 0x10cd1000, size is 0x00000010, status is MISS
+[info] [00000001]: icache refill request, id is 0x00000001, address is 0x10cd1000
+[info] [00000002]: icache refill request, id is 0x00000002, address is 0x10cd1080
+[info] [00000339]: icache refill acknowledge, id is 0x00000001, address is 0x10cd1000
+[info] [00000340]: icache read address is 0x10cd1010, size is 0x00000010, status is HIT
+[info] [00000341]: icache read address is 0x10cd1020, size is 0x00000010, status is HIT
+[info] [00000342]: icache read address is 0x10cd1030, size is 0x00000010, status is HIT
+[info] [00000343]: icache read address is 0x10cd1040, size is 0x00000010, status is HIT
+[info] [00000344]: icache read address is 0x10cd1050, size is 0x00000010, status is HIT
+[info] [00000345]: icache read address is 0x10cd1060, size is 0x00000010, status is HIT
+[info] [00000346]: icache read address is 0x10cd1070, size is 0x00000010, status is HIT
+[info] [00000347]: icache read address is 0x10cd1080, size is 0x00000010, status is MISS
+[info] [00000351]: icache refill acknowledge, id is 0x00000002, address is 0x10cd1080
+[info] [00000352]: icache read address is 0x10cd1090, size is 0x00000010, status is HIT
+[info] [00000353]: icache read address is 0x10cd10a0, size is 0x00000010, status is HIT
+[info] [00000354]: icache read address is 0x10cd10b0, size is 0x00000010, status is HIT
+[info] [00000355]: icache read address is 0x10cd10c0, size is 0x00000010, status is HIT
+[info] [00000356]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000000d
+[info] [00000356]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x0000000e
+[info] [00000356]: icache read address is 0x10cd10ac, size is 0x00000004, status is HIT
+[info] [00000357]: icache read address is 0x10cd10b0, size is 0x00000010, status is HIT
+[info] [00000358]: icache read address is 0x10cd10c0, size is 0x00000010, status is HIT
+[info] [00000359]: icache read address is 0x10cd10d0, size is 0x00000010, status is HIT
+[info] [00000360]: icache read address is 0x10cd10e0, size is 0x00000010, status is HIT
+[info] [00000361]: icache read address is 0x10cd10f0, size is 0x00000010, status is HIT
+[info] [00000713]: icache load data is 0x10cd1180
+[info] [00000713]: icache read address is 0x10cd1100, size is 0x00000010, status is MISS
+[info] [00000714]: icache refill request, id is 0x00000004, address is 0x10cd1100
+[info] [00000715]: icache refill request, id is 0x00000005, address is 0x10cd1180
+[info] [00001069]: icache refill acknowledge, id is 0x00000005, address is 0x10cd1180
+[info] [00001070]: icache read address is 0x10cd1110, size is 0x00000010, status is MISS
+[info] [00001116]: icache refill acknowledge, id is 0x00000004, address is 0x10cd1100
+[info] [00001117]: icache read address is 0x10cd1120, size is 0x00000010, status is HIT
+[info] [00001118]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000018
+[info] [00001118]: icache read address is 0x10cd1118, size is 0x00000008, status is HIT
+[info] [00001119]: icache read address is 0x10cd1120, size is 0x00000010, status is HIT
+[info] [00001120]: icache read address is 0x10cd1130, size is 0x00000010, status is HIT
+[info] [00001121]: icache read address is 0x10cd1140, size is 0x00000010, status is HIT
+[info] [00001122]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000001b
+[info] [00001122]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x0000001c
+[info] [00001122]: icache read address is 0x10cd1114, size is 0x0000000c, status is HIT
+[info] [00001123]: icache read address is 0x10cd1120, size is 0x00000010, status is HIT
+[info] [00001124]: icache read address is 0x10cd1130, size is 0x00000010, status is HIT
+[info] [00001125]: icache read address is 0x10cd1140, size is 0x00000010, status is HIT
+[info] [00001126]: icache read address is 0x10cd1150, size is 0x00000010, status is HIT
+[info] [00001127]: icache read address is 0x10cd1160, size is 0x00000010, status is HIT
+[info] [00001128]: icache read address is 0x10cd1170, size is 0x00000010, status is HIT
+[info] [00001129]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000022
+[info] [00001129]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000023
+[info] [00001129]: icache read address is 0x10cd1128, size is 0x00000008, status is HIT
+[info] [00001130]: icache read address is 0x10cd1130, size is 0x00000010, status is HIT
+[info] [00001131]: icache read address is 0x10cd1140, size is 0x00000010, status is HIT
+[info] [00001132]: icache read address is 0x10cd1150, size is 0x00000010, status is HIT
+[info] [00001133]: icache read address is 0x10cd1160, size is 0x00000010, status is HIT
+[info] [00001134]: icache read address is 0x10cd1170, size is 0x00000010, status is HIT
+[info] [00001135]: icache read address is 0x10cd1180, size is 0x00000010, status is HIT
+[info] [00001136]: icache read address is 0x10cd1190, size is 0x00000010, status is HIT
+[info] [00001137]: icache read address is 0x10cd11a0, size is 0x00000010, status is HIT
+[info] [00001138]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000002b
+[info] [00001138]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x0000002c
+[info] [00001138]: icache read address is 0x10cd1188, size is 0x00000008, status is HIT
+[info] [00001139]: icache read address is 0x10cd1190, size is 0x00000010, status is HIT
+[info] [00001140]: icache read address is 0x10cd11a0, size is 0x00000010, status is HIT
+[info] [00001141]: icache read address is 0x10cd11b0, size is 0x00000010, status is HIT
+[info] [00001142]: icache read address is 0x10cd11c0, size is 0x00000010, status is HIT
+[info] [00001143]: icache read address is 0x10cd11d0, size is 0x00000010, status is HIT
+[info] [00001144]: icache read address is 0x10cd11e0, size is 0x00000010, status is HIT
+[info] [00001145]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00001146]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000033
+[info] [00001146]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000034
+[info] [00001146]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00001147]: icache load data is 0x10cd1280
+[info] [00001147]: icache read address is 0x10cd1200, size is 0x00000010, status is MISS
+[info] [00001148]: icache refill request, id is 0x00000091, address is 0x10cd1200
+[info] [00001149]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001149]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000037
+[info] [00001149]: icache read address is 0x10cd1184, size is 0x0000000c, status is HIT
+[info] [00001150]: icache read address is 0x10cd1190, size is 0x00000010, status is HIT
+[info] [00001151]: icache read address is 0x10cd11a0, size is 0x00000010, status is HIT
+[info] [00001152]: icache read address is 0x10cd11b0, size is 0x00000010, status is HIT
+[info] [00001153]: icache read address is 0x10cd11c0, size is 0x00000010, status is HIT
+[info] [00001154]: icache read address is 0x10cd11d0, size is 0x00000010, status is HIT
+[info] [00001155]: icache read address is 0x10cd11e0, size is 0x00000010, status is HIT
+[info] [00001156]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00001157]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001157]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000003e
+[info] [00001157]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x0000003f
+[info] [00001157]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00001158]: icache read address is 0x10cd1200, size is 0x00000010, status is MISS
+[info] [00001160]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001160]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001160]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00001161]: icache read address is 0x10cd1200, size is 0x00000010, status is MISS
+[info] [00001162]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001162]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001162]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000042
+[info] [00001162]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001162]: icache read address is 0x10cd11ac, size is 0x00000004, status is HIT
+[info] [00001163]: icache read address is 0x10cd11b0, size is 0x00000010, status is HIT
+[info] [00001164]: icache read address is 0x10cd11c0, size is 0x00000010, status is HIT
+[info] [00001165]: icache read address is 0x10cd11d0, size is 0x00000010, status is HIT
+[info] [00001166]: icache read address is 0x10cd11e0, size is 0x00000010, status is HIT
+[info] [00001167]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001167]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001167]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001167]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000047
+[info] [00001167]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000048
+[info] [00001167]: icache read address is 0x10cd10a0, size is 0x00000010, status is HIT
+[info] [00001168]: icache read address is 0x10cd10b0, size is 0x00000010, status is HIT
+[info] [00001169]: icache read address is 0x10cd10c0, size is 0x00000010, status is HIT
+[info] [00001170]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001170]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001170]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001170]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000004a
+[info] [00001170]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x0000004b
+[info] [00001170]: icache read address is 0x10cd10ac, size is 0x00000004, status is HIT
+[info] [00001171]: icache read address is 0x10cd10b0, size is 0x00000010, status is HIT
+[info] [00001172]: icache read address is 0x10cd10c0, size is 0x00000010, status is HIT
+[info] [00001173]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001173]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001173]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001173]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000004d
+[info] [00001173]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x0000004e
+[info] [00001173]: icache read address is 0x10cd10a8, size is 0x00000008, status is HIT
+[info] [00001174]: icache read address is 0x10cd10b0, size is 0x00000010, status is HIT
+[info] [00001175]: icache read address is 0x10cd10c0, size is 0x00000010, status is HIT
+[info] [00001176]: icache read address is 0x10cd10d0, size is 0x00000010, status is HIT
+[info] [00001177]: icache read address is 0x10cd10e0, size is 0x00000010, status is HIT
+[info] [00001178]: icache read address is 0x10cd10f0, size is 0x00000010, status is HIT
+[info] [00001179]: icache read address is 0x10cd1100, size is 0x00000010, status is HIT
+[info] [00001180]: icache read address is 0x10cd1110, size is 0x00000010, status is HIT
+[info] [00001181]: icache read address is 0x10cd1120, size is 0x00000010, status is HIT
+[info] [00001182]: icache read address is 0x10cd1130, size is 0x00000010, status is HIT
+[info] [00001183]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001183]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001183]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001183]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000057
+[info] [00001183]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000058
+[info] [00001183]: icache read address is 0x10cd1118, size is 0x00000008, status is HIT
+[info] [00001184]: icache read address is 0x10cd1120, size is 0x00000010, status is HIT
+[info] [00001185]: icache read address is 0x10cd1130, size is 0x00000010, status is HIT
+[info] [00001186]: icache read address is 0x10cd1140, size is 0x00000010, status is HIT
+[info] [00001187]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001187]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001187]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001187]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000005b
+[info] [00001187]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x0000005c
+[info] [00001187]: icache read address is 0x10cd1128, size is 0x00000008, status is HIT
+[info] [00001188]: icache read address is 0x10cd1130, size is 0x00000010, status is HIT
+[info] [00001189]: icache read address is 0x10cd1140, size is 0x00000010, status is HIT
+[info] [00001190]: icache read address is 0x10cd1150, size is 0x00000010, status is HIT
+[info] [00001191]: icache read address is 0x10cd1160, size is 0x00000010, status is HIT
+[info] [00001192]: icache read address is 0x10cd1170, size is 0x00000010, status is HIT
+[info] [00001193]: icache read address is 0x10cd1180, size is 0x00000010, status is HIT
+[info] [00001194]: icache read address is 0x10cd1190, size is 0x00000010, status is HIT
+[info] [00001195]: icache read address is 0x10cd11a0, size is 0x00000010, status is HIT
+[info] [00001196]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001196]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001196]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001196]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000064
+[info] [00001196]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000065
+[info] [00001196]: icache read address is 0x10cd1114, size is 0x0000000c, status is HIT
+[info] [00001197]: icache read address is 0x10cd1120, size is 0x00000010, status is HIT
+[info] [00001198]: icache read address is 0x10cd1130, size is 0x00000010, status is HIT
+[info] [00001199]: icache read address is 0x10cd1140, size is 0x00000010, status is HIT
+[info] [00001200]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001200]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001200]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001200]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000068
+[info] [00001200]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000069
+[info] [00001200]: icache read address is 0x10cd1128, size is 0x00000008, status is HIT
+[info] [00001201]: icache read address is 0x10cd1130, size is 0x00000010, status is HIT
+[info] [00001202]: icache read address is 0x10cd1140, size is 0x00000010, status is HIT
+[info] [00001203]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001203]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001203]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001203]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000006b
+[info] [00001203]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x0000006c
+[info] [00001203]: icache read address is 0x10cd1124, size is 0x0000000c, status is HIT
+[info] [00001204]: icache read address is 0x10cd1130, size is 0x00000010, status is HIT
+[info] [00001205]: icache read address is 0x10cd1140, size is 0x00000010, status is HIT
+[info] [00001206]: icache read address is 0x10cd1150, size is 0x00000010, status is HIT
+[info] [00001207]: icache read address is 0x10cd1160, size is 0x00000010, status is HIT
+[info] [00001208]: icache read address is 0x10cd1170, size is 0x00000010, status is HIT
+[info] [00001209]: icache read address is 0x10cd1180, size is 0x00000010, status is HIT
+[info] [00001210]: icache read address is 0x10cd1190, size is 0x00000010, status is HIT
+[info] [00001211]: icache read address is 0x10cd11a0, size is 0x00000010, status is HIT
+[info] [00001212]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001212]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001212]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001212]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000074
+[info] [00001212]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000075
+[info] [00001212]: icache read address is 0x10cd1188, size is 0x00000008, status is HIT
+[info] [00001213]: icache read address is 0x10cd1190, size is 0x00000010, status is HIT
+[info] [00001214]: icache read address is 0x10cd11a0, size is 0x00000010, status is HIT
+[info] [00001215]: icache read address is 0x10cd11b0, size is 0x00000010, status is HIT
+[info] [00001216]: icache read address is 0x10cd11c0, size is 0x00000010, status is HIT
+[info] [00001217]: icache read address is 0x10cd11d0, size is 0x00000010, status is HIT
+[info] [00001218]: icache read address is 0x10cd11e0, size is 0x00000010, status is HIT
+[info] [00001219]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00001220]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001220]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001220]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001220]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007c
+[info] [00001220]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x0000007d
+[info] [00001220]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00001221]: icache read address is 0x10cd1200, size is 0x00000010, status is MISS
+[info] [00001223]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001223]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001223]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001223]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001223]: icache read address is 0x10cd1184, size is 0x0000000c, status is HIT
+[info] [00001224]: icache read address is 0x10cd1190, size is 0x00000010, status is HIT
+[info] [00001225]: icache read address is 0x10cd11a0, size is 0x00000010, status is HIT
+[info] [00001226]: icache read address is 0x10cd11b0, size is 0x00000010, status is HIT
+[info] [00001227]: icache read address is 0x10cd11c0, size is 0x00000010, status is HIT
+[info] [00001228]: icache read address is 0x10cd11d0, size is 0x00000010, status is HIT
+[info] [00001229]: icache read address is 0x10cd11e0, size is 0x00000010, status is HIT
+[info] [00001230]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00001231]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001231]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001231]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001231]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001231]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000086
+[info] [00001231]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000087
+[info] [00001231]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00001232]: icache read address is 0x10cd1200, size is 0x00000010, status is MISS
+[info] [00001234]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001234]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001234]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001234]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001234]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001234]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00001235]: icache read address is 0x10cd1200, size is 0x00000010, status is MISS
+[info] [00001236]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001236]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001236]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001236]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001236]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001236]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008a
+[info] [00001236]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001236]: icache read address is 0x10cd11ac, size is 0x00000004, status is HIT
+[info] [00001237]: icache read address is 0x10cd11b0, size is 0x00000010, status is HIT
+[info] [00001238]: icache read address is 0x10cd11c0, size is 0x00000010, status is HIT
+[info] [00001239]: icache read address is 0x10cd11d0, size is 0x00000010, status is HIT
+[info] [00001240]: icache read address is 0x10cd11e0, size is 0x00000010, status is HIT
+[info] [00001241]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001241]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001241]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001241]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001241]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001241]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001241]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008f
+[info] [00001241]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000090
+[info] [00001241]: icache read address is 0x10cd10a0, size is 0x00000010, status is HIT
+[info] [00001242]: icache read address is 0x10cd10b0, size is 0x00000010, status is HIT
+[info] [00001243]: icache read address is 0x10cd10c0, size is 0x00000010, status is HIT
+[info] [00001244]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001244]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001244]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001244]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001244]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001244]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001244]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000092
+[info] [00001244]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000093
+[info] [00001244]: icache read address is 0x10cd10ac, size is 0x00000004, status is HIT
+[info] [00001245]: icache read address is 0x10cd10b0, size is 0x00000010, status is HIT
+[info] [00001246]: icache read address is 0x10cd10c0, size is 0x00000010, status is HIT
+[info] [00001247]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001247]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001247]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001247]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001247]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001247]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001247]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000095
+[info] [00001247]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000096
+[info] [00001247]: icache read address is 0x10cd10a8, size is 0x00000008, status is HIT
+[info] [00001248]: icache read address is 0x10cd10b0, size is 0x00000010, status is HIT
+[info] [00001249]: icache read address is 0x10cd10c0, size is 0x00000010, status is HIT
+[info] [00001250]: icache read address is 0x10cd10d0, size is 0x00000010, status is HIT
+[info] [00001251]: icache read address is 0x10cd10e0, size is 0x00000010, status is HIT
+[info] [00001252]: icache read address is 0x10cd10f0, size is 0x00000010, status is HIT
+[info] [00001253]: icache read address is 0x10cd1100, size is 0x00000010, status is HIT
+[info] [00001254]: icache read address is 0x10cd1110, size is 0x00000010, status is HIT
+[info] [00001255]: icache read address is 0x10cd1120, size is 0x00000010, status is HIT
+[info] [00001256]: icache read address is 0x10cd1130, size is 0x00000010, status is HIT
+[info] [00001257]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001257]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001257]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001257]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001257]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001257]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001257]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000009f
+[info] [00001257]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000000a0
+[info] [00001257]: icache read address is 0x10cd1118, size is 0x00000008, status is HIT
+[info] [00001258]: icache read address is 0x10cd1120, size is 0x00000010, status is HIT
+[info] [00001259]: icache read address is 0x10cd1130, size is 0x00000010, status is HIT
+[info] [00001260]: icache read address is 0x10cd1140, size is 0x00000010, status is HIT
+[info] [00001261]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001261]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001261]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001261]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001261]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001261]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001261]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000a3
+[info] [00001261]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000000a4
+[info] [00001261]: icache read address is 0x10cd1128, size is 0x00000008, status is HIT
+[info] [00001262]: icache read address is 0x10cd1130, size is 0x00000010, status is HIT
+[info] [00001263]: icache read address is 0x10cd1140, size is 0x00000010, status is HIT
+[info] [00001264]: icache read address is 0x10cd1150, size is 0x00000010, status is HIT
+[info] [00001265]: icache read address is 0x10cd1160, size is 0x00000010, status is HIT
+[info] [00001266]: icache read address is 0x10cd1170, size is 0x00000010, status is HIT
+[info] [00001267]: icache read address is 0x10cd1180, size is 0x00000010, status is HIT
+[info] [00001268]: icache read address is 0x10cd1190, size is 0x00000010, status is HIT
+[info] [00001269]: icache read address is 0x10cd11a0, size is 0x00000010, status is HIT
+[info] [00001270]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001270]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001270]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001270]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001270]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001270]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001270]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000ac
+[info] [00001270]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000000ad
+[info] [00001270]: icache read address is 0x10cd1114, size is 0x0000000c, status is HIT
+[info] [00001271]: icache read address is 0x10cd1120, size is 0x00000010, status is HIT
+[info] [00001272]: icache read address is 0x10cd1130, size is 0x00000010, status is HIT
+[info] [00001273]: icache read address is 0x10cd1140, size is 0x00000010, status is HIT
+[info] [00001274]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001274]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001274]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001274]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001274]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001274]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001274]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000b0
+[info] [00001274]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000000b1
+[info] [00001274]: icache read address is 0x10cd1128, size is 0x00000008, status is HIT
+[info] [00001275]: icache read address is 0x10cd1130, size is 0x00000010, status is HIT
+[info] [00001276]: icache read address is 0x10cd1140, size is 0x00000010, status is HIT
+[info] [00001277]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001277]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001277]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001277]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001277]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001277]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001277]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000b3
+[info] [00001277]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000000b4
+[info] [00001277]: icache read address is 0x10cd1124, size is 0x0000000c, status is HIT
+[info] [00001278]: icache read address is 0x10cd1130, size is 0x00000010, status is HIT
+[info] [00001279]: icache read address is 0x10cd1140, size is 0x00000010, status is HIT
+[info] [00001280]: icache read address is 0x10cd1150, size is 0x00000010, status is HIT
+[info] [00001281]: icache read address is 0x10cd1160, size is 0x00000010, status is HIT
+[info] [00001282]: icache read address is 0x10cd1170, size is 0x00000010, status is HIT
+[info] [00001283]: icache read address is 0x10cd1180, size is 0x00000010, status is HIT
+[info] [00001284]: icache read address is 0x10cd1190, size is 0x00000010, status is HIT
+[info] [00001285]: icache read address is 0x10cd11a0, size is 0x00000010, status is HIT
+[info] [00001286]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001286]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001286]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001286]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001286]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001286]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001286]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000bc
+[info] [00001286]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000000bd
+[info] [00001286]: icache read address is 0x10cd1188, size is 0x00000008, status is HIT
+[info] [00001287]: icache read address is 0x10cd1190, size is 0x00000010, status is HIT
+[info] [00001288]: icache read address is 0x10cd11a0, size is 0x00000010, status is HIT
+[info] [00001289]: icache read address is 0x10cd11b0, size is 0x00000010, status is HIT
+[info] [00001290]: icache read address is 0x10cd11c0, size is 0x00000010, status is HIT
+[info] [00001291]: icache read address is 0x10cd11d0, size is 0x00000010, status is HIT
+[info] [00001292]: icache read address is 0x10cd11e0, size is 0x00000010, status is HIT
+[info] [00001293]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00001294]: icache read address is 0x10cd1200, size is 0x00000010, status is MISS
+[info] [00001296]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001296]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001296]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001296]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001296]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001296]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001296]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000c6
+[info] [00001296]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00001297]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001297]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001297]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001297]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001297]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001297]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001297]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000c6
+[info] [00001297]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000000c7
+[info] [00001297]: icache read address is 0x10cd1184, size is 0x0000000c, status is HIT
+[info] [00001298]: icache read address is 0x10cd1190, size is 0x00000010, status is HIT
+[info] [00001299]: icache read address is 0x10cd11a0, size is 0x00000010, status is HIT
+[info] [00001300]: icache read address is 0x10cd11b0, size is 0x00000010, status is HIT
+[info] [00001301]: icache read address is 0x10cd11c0, size is 0x00000010, status is HIT
+[info] [00001302]: icache read address is 0x10cd11d0, size is 0x00000010, status is HIT
+[info] [00001303]: icache read address is 0x10cd11e0, size is 0x00000010, status is HIT
+[info] [00001304]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00001305]: icache read address is 0x10cd1200, size is 0x00000010, status is MISS
+[info] [00001307]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001307]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001307]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001307]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001307]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001307]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001307]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000c6
+[info] [00001307]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d0
+[info] [00001307]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00001308]: icache read address is 0x10cd1200, size is 0x00000010, status is MISS
+[info] [00001310]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001310]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001310]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001310]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001310]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001310]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001310]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000c6
+[info] [00001310]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d0
+[info] [00001310]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d2
+[info] [00001310]: icache read address is 0x10cd11ac, size is 0x00000004, status is HIT
+[info] [00001311]: icache read address is 0x10cd11b0, size is 0x00000010, status is HIT
+[info] [00001312]: icache read address is 0x10cd11c0, size is 0x00000010, status is HIT
+[info] [00001313]: icache read address is 0x10cd11d0, size is 0x00000010, status is HIT
+[info] [00001314]: icache read address is 0x10cd11e0, size is 0x00000010, status is HIT
+[info] [00001315]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001315]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001315]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001315]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001315]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001315]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001315]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000c6
+[info] [00001315]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d0
+[info] [00001315]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d2
+[info] [00001315]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d6
+[info] [00001315]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000000d7
+[info] [00001315]: icache read address is 0x10cd10a0, size is 0x00000010, status is HIT
+[info] [00001316]: icache read address is 0x10cd10b0, size is 0x00000010, status is HIT
+[info] [00001317]: icache read address is 0x10cd10c0, size is 0x00000010, status is HIT
+[info] [00001318]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001318]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001318]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001318]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001318]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001318]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001318]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000c6
+[info] [00001318]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d0
+[info] [00001318]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d2
+[info] [00001318]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d9
+[info] [00001318]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000000da
+[info] [00001318]: icache read address is 0x10cd10ac, size is 0x00000004, status is HIT
+[info] [00001319]: icache read address is 0x10cd10b0, size is 0x00000010, status is HIT
+[info] [00001320]: icache read address is 0x10cd10c0, size is 0x00000010, status is HIT
+[info] [00001321]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001321]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001321]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001321]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001321]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001321]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001321]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000c6
+[info] [00001321]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d0
+[info] [00001321]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d2
+[info] [00001321]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000dc
+[info] [00001321]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000000dd
+[info] [00001321]: icache read address is 0x10cd10a8, size is 0x00000008, status is HIT
+[info] [00001322]: icache read address is 0x10cd10b0, size is 0x00000010, status is HIT
+[info] [00001323]: icache read address is 0x10cd10c0, size is 0x00000010, status is HIT
+[info] [00001324]: icache read address is 0x10cd10d0, size is 0x00000010, status is HIT
+[info] [00001325]: icache read address is 0x10cd10e0, size is 0x00000010, status is HIT
+[info] [00001326]: icache read address is 0x10cd10f0, size is 0x00000010, status is HIT
+[info] [00001327]: icache read address is 0x10cd1100, size is 0x00000010, status is HIT
+[info] [00001328]: icache read address is 0x10cd1110, size is 0x00000010, status is HIT
+[info] [00001329]: icache read address is 0x10cd1120, size is 0x00000010, status is HIT
+[info] [00001330]: icache read address is 0x10cd1130, size is 0x00000010, status is HIT
+[info] [00001331]: icache read address is 0x10cd1140, size is 0x00000010, status is HIT
+[info] [00001332]: icache read address is 0x10cd1150, size is 0x00000010, status is HIT
+[info] [00001333]: icache read address is 0x10cd1160, size is 0x00000010, status is HIT
+[info] [00001334]: icache read address is 0x10cd1170, size is 0x00000010, status is HIT
+[info] [00001342]: icache read address is 0x10cd1180, size is 0x00000010, status is HIT
+[info] [00001343]: icache read address is 0x10cd1190, size is 0x00000010, status is HIT
+[info] [00001344]: icache read address is 0x10cd11a0, size is 0x00000010, status is HIT
+[info] [00001345]: icache read address is 0x10cd11b0, size is 0x00000010, status is HIT
+[info] [00001353]: icache read address is 0x10cd11c0, size is 0x00000010, status is HIT
+[info] [00001354]: icache read address is 0x10cd11d0, size is 0x00000010, status is HIT
+[info] [00001355]: icache read address is 0x10cd11e0, size is 0x00000010, status is HIT
+[info] [00001356]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00001359]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001359]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001359]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001359]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001359]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001359]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001359]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000c6
+[info] [00001359]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d0
+[info] [00001359]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d2
+[info] [00001361]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00001362]: icache read address is 0x10cd1200, size is 0x00000010, status is MISS
+[info] [00001364]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001364]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001364]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001364]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001364]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001364]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001364]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000c6
+[info] [00001364]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d0
+[info] [00001364]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d2
+[info] [00001364]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000f5
+[info] [00001364]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00001365]: icache read address is 0x10cd1200, size is 0x00000010, status is MISS
+[info] [00001367]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001367]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001367]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001367]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001367]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001367]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001367]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000c6
+[info] [00001367]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d0
+[info] [00001367]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d2
+[info] [00001367]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000f5
+[info] [00001367]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000f7
+[info] [00001367]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00001368]: icache read address is 0x10cd1200, size is 0x00000010, status is MISS
+[info] [00001370]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001370]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001370]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001370]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001370]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001370]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001370]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000c6
+[info] [00001370]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d0
+[info] [00001370]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d2
+[info] [00001370]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000f5
+[info] [00001370]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000f7
+[info] [00001370]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000f9
+[info] [00001370]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00001371]: icache read address is 0x10cd1200, size is 0x00000010, status is MISS
+[info] [00001373]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001373]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001373]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001373]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001373]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001373]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001373]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000c6
+[info] [00001373]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d0
+[info] [00001373]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d2
+[info] [00001373]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000f5
+[info] [00001373]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000f7
+[info] [00001373]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000f9
+[info] [00001373]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000fb
+[info] [00001373]: icache read address is 0x10cd10a0, size is 0x00000010, status is HIT
+[info] [00001374]: icache read address is 0x10cd10b0, size is 0x00000010, status is HIT
+[info] [00001375]: icache read address is 0x10cd10c0, size is 0x00000010, status is HIT
+[info] [00001376]: icache read address is 0x10cd10d0, size is 0x00000010, status is HIT
+[info] [00001377]: icache read address is 0x10cd10e0, size is 0x00000010, status is HIT
+[info] [00001378]: icache read address is 0x10cd10f0, size is 0x00000010, status is HIT
+[info] [00001379]: icache read address is 0x10cd1100, size is 0x00000010, status is HIT
+[info] [00001380]: icache read address is 0x10cd1110, size is 0x00000010, status is HIT
+[info] [00001381]: icache read address is 0x10cd1120, size is 0x00000010, status is HIT
+[info] [00001382]: icache read address is 0x10cd1130, size is 0x00000010, status is HIT
+[info] [00001383]: icache read address is 0x10cd1140, size is 0x00000010, status is HIT
+[info] [00001384]: icache read address is 0x10cd1150, size is 0x00000010, status is HIT
+[info] [00001385]: icache read address is 0x10cd1160, size is 0x00000010, status is HIT
+[info] [00001394]: icache read address is 0x10cd1170, size is 0x00000010, status is HIT
+[info] [00001395]: icache read address is 0x10cd1180, size is 0x00000010, status is HIT
+[info] [00001396]: icache read address is 0x10cd1190, size is 0x00000010, status is HIT
+[info] [00001397]: icache read address is 0x10cd11a0, size is 0x00000010, status is HIT
+[info] [00001405]: icache read address is 0x10cd11b0, size is 0x00000010, status is HIT
+[info] [00001406]: icache read address is 0x10cd11c0, size is 0x00000010, status is HIT
+[info] [00001407]: icache read address is 0x10cd11d0, size is 0x00000010, status is HIT
+[info] [00001408]: icache read address is 0x10cd11e0, size is 0x00000010, status is HIT
+[info] [00001415]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00001416]: icache read address is 0x10cd1200, size is 0x00000010, status is MISS
+[info] [00001418]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001418]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001418]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001418]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001418]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001418]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001418]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000c6
+[info] [00001418]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d0
+[info] [00001418]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d2
+[info] [00001418]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000f5
+[info] [00001418]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000f7
+[info] [00001418]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000f9
+[info] [00001418]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000fb
+[info] [00001418]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000112
+[info] [00001418]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00001419]: icache read address is 0x10cd1200, size is 0x00000010, status is MISS
+[info] [00001421]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001421]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001421]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001421]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001421]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001421]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001421]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000c6
+[info] [00001421]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d0
+[info] [00001421]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d2
+[info] [00001421]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000f5
+[info] [00001421]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000f7
+[info] [00001421]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000f9
+[info] [00001421]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000fb
+[info] [00001421]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000112
+[info] [00001421]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000114
+[info] [00001421]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00001422]: icache read address is 0x10cd1200, size is 0x00000010, status is MISS
+[info] [00001424]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001424]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001424]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001424]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001424]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001424]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001424]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000c6
+[info] [00001424]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d0
+[info] [00001424]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d2
+[info] [00001424]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000f5
+[info] [00001424]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000f7
+[info] [00001424]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000f9
+[info] [00001424]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000fb
+[info] [00001424]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000112
+[info] [00001424]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000114
+[info] [00001424]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000116
+[info] [00001424]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00001425]: icache read address is 0x10cd1200, size is 0x00000010, status is MISS
+[info] [00001427]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000036
+[info] [00001427]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000041
+[info] [00001427]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000043
+[info] [00001427]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000007f
+[info] [00001427]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000089
+[info] [00001427]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000008b
+[info] [00001427]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000c6
+[info] [00001427]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d0
+[info] [00001427]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000d2
+[info] [00001427]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000f5
+[info] [00001427]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000f7
+[info] [00001427]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000f9
+[info] [00001427]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000000fb
+[info] [00001427]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000112
+[info] [00001427]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000114
+[info] [00001427]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000116
+[info] [00001427]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000118
+[info] [00001427]: icache read address is 0x10cd10a0, size is 0x00000010, status is HIT
+[info] [00001428]: icache read address is 0x10cd10b0, size is 0x00000010, status is HIT
+[info] [00001429]: icache read address is 0x10cd10c0, size is 0x00000010, status is HIT
+[info] [00001430]: icache read address is 0x10cd10d0, size is 0x00000010, status is HIT
+[info] [00001431]: icache read address is 0x10cd10e0, size is 0x00000010, status is HIT
+[info] [00001432]: icache read address is 0x10cd10f0, size is 0x00000010, status is HIT
+[info] [00001433]: icache read address is 0x10cd1100, size is 0x00000010, status is HIT
+[info] [00001434]: icache read address is 0x10cd1110, size is 0x00000010, status is HIT
+[info] [00001435]: icache read address is 0x10cd1120, size is 0x00000010, status is HIT
+[info] [00001436]: icache read address is 0x10cd1130, size is 0x00000010, status is HIT
+[info] [00001437]: icache read address is 0x10cd1140, size is 0x00000010, status is HIT
+[info] [00001438]: icache read address is 0x10cd1150, size is 0x00000010, status is HIT
+[info] [00001439]: icache read address is 0x10cd1160, size is 0x00000010, status is HIT
+[info] [00001448]: icache refill acknowledge, id is 0x00000091, address is 0x10cd1200
+[info] [00001448]: icache read address is 0x10cd1170, size is 0x00000010, status is HIT
+[info] [00001449]: icache read address is 0x10cd1180, size is 0x00000010, status is HIT
+[info] [00001450]: icache read address is 0x10cd1190, size is 0x00000010, status is HIT
+[info] [00001451]: icache read address is 0x10cd11a0, size is 0x00000010, status is HIT
+[info] [00001459]: icache read address is 0x10cd11b0, size is 0x00000010, status is HIT
+[info] [00001460]: icache read address is 0x10cd11c0, size is 0x00000010, status is HIT
+[info] [00001461]: icache read address is 0x10cd11d0, size is 0x00000010, status is HIT
+[info] [00001462]: icache read address is 0x10cd11e0, size is 0x00000010, status is HIT
+[info] [00002119]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00002120]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00002121]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00002122]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000012f
+[info] [00002122]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000130
+[info] [00002122]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00002123]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00002124]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00002125]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000132
+[info] [00002125]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000133
+[info] [00002125]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00002126]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00002127]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00002128]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000135
+[info] [00002128]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000136
+[info] [00002128]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00002129]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00002130]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00002131]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000138
+[info] [00002131]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000139
+[info] [00002131]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00002132]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x0000013a
+[info] [00002132]: icache read address is 0x10cd10a0, size is 0x00000010, status is HIT
+[info] [00002133]: icache read address is 0x10cd10b0, size is 0x00000010, status is HIT
+[info] [00002134]: icache read address is 0x10cd10c0, size is 0x00000010, status is HIT
+[info] [00002135]: icache read address is 0x10cd10d0, size is 0x00000010, status is HIT
+[info] [00002136]: icache read address is 0x10cd10e0, size is 0x00000010, status is HIT
+[info] [00002137]: icache read address is 0x10cd10f0, size is 0x00000010, status is HIT
+[info] [00002138]: icache read address is 0x10cd1100, size is 0x00000010, status is HIT
+[info] [00002139]: icache read address is 0x10cd1110, size is 0x00000010, status is HIT
+[info] [00002140]: icache read address is 0x10cd1120, size is 0x00000010, status is HIT
+[info] [00002141]: icache read address is 0x10cd1130, size is 0x00000010, status is HIT
+[info] [00002142]: icache read address is 0x10cd1140, size is 0x00000010, status is HIT
+[info] [00002143]: icache read address is 0x10cd1150, size is 0x00000010, status is HIT
+[info] [00002144]: icache read address is 0x10cd1160, size is 0x00000010, status is HIT
+[info] [00002400]: icache read address is 0x10cd1170, size is 0x00000010, status is HIT
+[info] [00002401]: icache read address is 0x10cd1180, size is 0x00000010, status is HIT
+[info] [00002402]: icache read address is 0x10cd1190, size is 0x00000010, status is HIT
+[info] [00002403]: icache read address is 0x10cd11a0, size is 0x00000010, status is HIT
+[info] [00002412]: icache read address is 0x10cd11b0, size is 0x00000010, status is HIT
+[info] [00002413]: icache read address is 0x10cd11c0, size is 0x00000010, status is HIT
+[info] [00002414]: icache read address is 0x10cd11d0, size is 0x00000010, status is HIT
+[info] [00002415]: icache read address is 0x10cd11e0, size is 0x00000010, status is HIT
+[info] [00004395]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00004396]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00004397]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00004398]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000151
+[info] [00004398]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000152
+[info] [00004398]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00004399]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00004400]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00004401]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000154
+[info] [00004401]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000155
+[info] [00004401]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00004402]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00004403]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00004404]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000157
+[info] [00004404]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000158
+[info] [00004404]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00004405]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00004406]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00004407]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000015a
+[info] [00004407]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x0000015b
+[info] [00004407]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00004408]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x0000015c
+[info] [00004408]: icache read address is 0x10cd10a0, size is 0x00000010, status is HIT
+[info] [00004409]: icache read address is 0x10cd10b0, size is 0x00000010, status is HIT
+[info] [00004410]: icache read address is 0x10cd10c0, size is 0x00000010, status is HIT
+[info] [00004411]: icache read address is 0x10cd10d0, size is 0x00000010, status is HIT
+[info] [00004412]: icache read address is 0x10cd10e0, size is 0x00000010, status is HIT
+[info] [00004413]: icache read address is 0x10cd10f0, size is 0x00000010, status is HIT
+[info] [00004414]: icache read address is 0x10cd1100, size is 0x00000010, status is HIT
+[info] [00004415]: icache read address is 0x10cd1110, size is 0x00000010, status is HIT
+[info] [00004416]: icache read address is 0x10cd1120, size is 0x00000010, status is HIT
+[info] [00004417]: icache read address is 0x10cd1130, size is 0x00000010, status is HIT
+[info] [00004418]: icache read address is 0x10cd1140, size is 0x00000010, status is HIT
+[info] [00004419]: icache read address is 0x10cd1150, size is 0x00000010, status is HIT
+[info] [00004420]: icache read address is 0x10cd1160, size is 0x00000010, status is HIT
+[info] [00004676]: icache read address is 0x10cd1170, size is 0x00000010, status is HIT
+[info] [00004677]: icache read address is 0x10cd1180, size is 0x00000010, status is HIT
+[info] [00004678]: icache read address is 0x10cd1190, size is 0x00000010, status is HIT
+[info] [00004679]: icache read address is 0x10cd11a0, size is 0x00000010, status is HIT
+[info] [00004681]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000016d
+[info] [00004681]: icache read address is 0x10cd1118, size is 0x00000008, status is HIT
+[info] [00004682]: icache read address is 0x10cd1120, size is 0x00000010, status is HIT
+[info] [00004683]: icache read address is 0x10cd1130, size is 0x00000010, status is HIT
+[info] [00004684]: icache read address is 0x10cd1140, size is 0x00000010, status is HIT
+[info] [00004685]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000170
+[info] [00004685]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000171
+[info] [00004685]: icache read address is 0x10cd1128, size is 0x00000008, status is HIT
+[info] [00004686]: icache read address is 0x10cd1130, size is 0x00000010, status is HIT
+[info] [00004687]: icache read address is 0x10cd1140, size is 0x00000010, status is HIT
+[info] [00004688]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000173
+[info] [00004688]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000174
+[info] [00004688]: icache read address is 0x10cd1124, size is 0x0000000c, status is HIT
+[info] [00004689]: icache read address is 0x10cd1130, size is 0x00000010, status is HIT
+[info] [00004690]: icache read address is 0x10cd1140, size is 0x00000010, status is HIT
+[info] [00004691]: icache read address is 0x10cd1150, size is 0x00000010, status is HIT
+[info] [00004692]: icache read address is 0x10cd1160, size is 0x00000010, status is HIT
+[info] [00004693]: icache read address is 0x10cd1170, size is 0x00000010, status is HIT
+[info] [00004694]: icache read address is 0x10cd1180, size is 0x00000010, status is HIT
+[info] [00004695]: icache read address is 0x10cd1190, size is 0x00000010, status is HIT
+[info] [00004696]: icache read address is 0x10cd11a0, size is 0x00000010, status is HIT
+[info] [00004697]: icache read address is 0x10cd11b0, size is 0x00000010, status is HIT
+[info] [00004698]: icache read address is 0x10cd11c0, size is 0x00000010, status is HIT
+[info] [00004699]: icache read address is 0x10cd11d0, size is 0x00000010, status is HIT
+[info] [00004700]: icache read address is 0x10cd11e0, size is 0x00000010, status is HIT
+[info] [00004702]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000181
+[info] [00006382]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00006383]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00006384]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00006385]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000183
+[info] [00006385]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000184
+[info] [00006385]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00006386]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00006387]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00006388]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000186
+[info] [00006388]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000187
+[info] [00006698]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00006699]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00006700]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00006701]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000189
+[info] [00006701]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x0000018a
+[info] [00006701]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00006702]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00006703]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000018b
+[info] [00006703]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x0000018c
+[info] [00006703]: icache read address is 0x10cd1188, size is 0x00000008, status is HIT
+[info] [00006704]: icache read address is 0x10cd1190, size is 0x00000010, status is HIT
+[info] [00006705]: icache read address is 0x10cd11a0, size is 0x00000010, status is HIT
+[info] [00006706]: icache read address is 0x10cd11b0, size is 0x00000010, status is HIT
+[info] [00006707]: icache read address is 0x10cd11c0, size is 0x00000010, status is HIT
+[info] [00006708]: icache read address is 0x10cd11d0, size is 0x00000010, status is HIT
+[info] [00006709]: icache read address is 0x10cd11e0, size is 0x00000010, status is HIT
+[info] [00006710]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00006711]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00006712]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00006713]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000195
+[info] [00006713]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000196
+[info] [00006713]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00006714]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00006715]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00006716]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x00000198
+[info] [00006716]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x00000199
+[info] [00006716]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00006717]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00006718]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00006719]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000019b
+[info] [00006719]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x0000019c
+[info] [00006719]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00006720]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00006721]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00006722]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x0000019e
+[info] [00006722]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x0000019f
+[info] [00006722]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00006723]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00006724]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00006725]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000001a1
+[info] [00006725]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000001a2
+[info] [00006725]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00006726]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00006727]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00006728]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000001a4
+[info] [00006728]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000001a5
+[info] [00006728]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00006729]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00006730]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00006731]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000001a7
+[info] [00006731]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000001a8
+[info] [00006731]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00006732]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00006733]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00006734]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000001aa
+[info] [00006734]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000001ab
+[info] [00006734]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00006735]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00006736]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00006737]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000001ad
+[info] [00006737]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000001ae
+[info] [00006737]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00006738]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00006739]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00006740]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000001b0
+[info] [00006740]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000001b1
+[info] [00006740]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00006741]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00006742]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00006743]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000001b3
+[info] [00006743]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000001b4
+[info] [00006743]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00006744]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00006745]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00006746]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000001b6
+[info] [00006746]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000001b7
+[info] [00006746]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00006747]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00006748]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00006749]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000001b9
+[info] [00006749]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000001ba
+[info] [00006749]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00006750]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00006751]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00006752]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000001bc
+[info] [00006752]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000001bd
+[info] [00006752]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00006753]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00006754]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00006755]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000001bf
+[info] [00006755]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000001c0
+[info] [00019379]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00019380]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00019381]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00019382]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000001c2
+[info] [00019382]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000001c3
+[info] [00019382]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00019383]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00019384]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00019385]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000001c5
+[info] [00019385]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000001c6
+[info] [00019385]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00019386]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00019387]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000001c7
+[info] [00019387]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000001c8
+[info] [00019387]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00019388]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00019389]: icache read address is 0x10cd1210, size is 0x00000010, status is HIT
+[info] [00019390]: ccu miss_predict flush icache cmbf, normal_reqs id is 0x000001ca
+[info] [00019390]: ccu miss_predict flush icache pipeline, normal_reqs id is 0x000001cb
+[info] [00019390]: icache read address is 0x10cd11f0, size is 0x00000010, status is HIT
+[info] [00019391]: icache read address is 0x10cd1200, size is 0x00000010, status is HIT
+[info] [00019392]: ccu end_execute flush icache clean_req_lst, normal_reqs id is 0x000001cd
+[info] ++++++++++++++++++++++core: 0, tick: 19393, kernal0 blkID 0 of blkdim 2 done++++++++++++++++++++++.
+

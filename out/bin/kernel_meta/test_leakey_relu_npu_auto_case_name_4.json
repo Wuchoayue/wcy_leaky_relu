@@ -1,0 +1,13 @@
+{
+    "binFileName":"test_leakey_relu_npu_auto_case_name_4",
+    "binFileSuffix":".o",
+    "blockDim":2,
+    "kernelName":"test_leakey_relu_npu_auto_case_name_4__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize":0,
+    "parameters":[
+        0,
+        0
+    ],
+    "sha256":"649192009968efb754266b14e0eea61238fb004393fc234a65b986a9f6db020e"
+}

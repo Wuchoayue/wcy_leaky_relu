@@ -1,0 +1,222 @@
+[info] [00000364](SCALAR ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L2_PIPE
+[info] [00000709] event: src pipe is DMAC_L2_PIPE, dst pipe is SCALAR_PIPE, id is 0, num is 1
+[info] [00000709] event: src pipe is DMAC_L2_PIPE, dst pipe is SCALAR_PIPE, id is 0, num is 0
+[info] [00000709](SCALAR ISSUE): status is NORMAL
+[info] [00000733](VECTOR ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L2_PIPE
+[info] [00001120](MTE3 ISSUE): status is WAIT_SYNC_EVENT, source pipe is VECTOR_PIPE
+[info] [00001179](MTE2 ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L3_PIPE
+[info] [00001621] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 1
+[info] [00001622] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 0
+[info] [00001622](VECTOR ISSUE): status is NORMAL
+[info] [00001787](VECTOR ISSUE): status is BARRING
+[info] [00001799](VECTOR ISSUE): status is NORMAL
+[info] [00001808] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 1
+[info] [00002117](VECTOR ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L2_PIPE
+[info] [00002119] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 0
+[info] [00002119](VECTOR ISSUE): status is NORMAL
+[info] [00002127] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 1
+[info] [00002127] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 0
+[info] [00002127](MTE3 ISSUE): status is NORMAL
+[info] [00002129](MTE3 ISSUE): status is WAIT_SYNC_EVENT, source pipe is VECTOR_PIPE
+[info] [00002214](VECTOR ISSUE): status is BARRING
+[info] [00002226](VECTOR ISSUE): status is NORMAL
+[info] [00002400](VECTOR ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L2_PIPE
+[info] [00002410] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 1
+[info] [00002410] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 0
+[info] [00002410](MTE3 ISSUE): status is NORMAL
+[info] [00002412](MTE3 ISSUE): status is WAIT_SYNC_EVENT, source pipe is VECTOR_PIPE
+[info] [00003005] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 0, num is 1
+[info] [00003005] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 0, num is 0
+[info] [00003005](MTE2 ISSUE): status is NORMAL
+[info] [00003007](MTE2 ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L3_PIPE
+[info] [00003355] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 1, num is 1
+[info] [00003355] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 1, num is 0
+[info] [00003355](MTE2 ISSUE): status is NORMAL
+[info] [00003357](MTE2 ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L3_PIPE
+[info] [00003897] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 1
+[info] [00003898] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 0
+[info] [00003898](VECTOR ISSUE): status is NORMAL
+[info] [00004063](VECTOR ISSUE): status is BARRING
+[info] [00004075](VECTOR ISSUE): status is NORMAL
+[info] [00004087] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 1
+[info] [00004393](VECTOR ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L2_PIPE
+[info] [00004395] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 0
+[info] [00004395](VECTOR ISSUE): status is NORMAL
+[info] [00004403] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 1
+[info] [00004403] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 0
+[info] [00004403](MTE3 ISSUE): status is NORMAL
+[info] [00004405](MTE3 ISSUE): status is WAIT_SYNC_EVENT, source pipe is VECTOR_PIPE
+[info] [00004490](VECTOR ISSUE): status is BARRING
+[info] [00004502](VECTOR ISSUE): status is NORMAL
+[info] [00004676](VECTOR ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L2_PIPE
+[info] [00004686] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 1
+[info] [00004686] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 0
+[info] [00004686](MTE3 ISSUE): status is NORMAL
+[info] [00004688](MTE3 ISSUE): status is WAIT_SYNC_EVENT, source pipe is VECTOR_PIPE
+[info] [00005290] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 0, num is 1
+[info] [00005290] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 0, num is 0
+[info] [00005290](MTE2 ISSUE): status is NORMAL
+[info] [00005292](MTE2 ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L3_PIPE
+[info] [00005611] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 1, num is 1
+[info] [00005611] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 1, num is 0
+[info] [00005611](MTE2 ISSUE): status is NORMAL
+[info] [00005613](MTE2 ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L3_PIPE
+[info] [00006202] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 1
+[info] [00006203] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 0
+[info] [00006203](VECTOR ISSUE): status is NORMAL
+[info] [00006368](VECTOR ISSUE): status is BARRING
+[info] [00006380](VECTOR ISSUE): status is NORMAL
+[info] [00006389] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 1
+[info] [00006698](VECTOR ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L2_PIPE
+[info] [00006700] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 0
+[info] [00006700](VECTOR ISSUE): status is NORMAL
+[info] [00006708] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 1
+[info] [00006708] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 0
+[info] [00006708](MTE3 ISSUE): status is NORMAL
+[info] [00006710](MTE3 ISSUE): status is WAIT_SYNC_EVENT, source pipe is VECTOR_PIPE
+[info] [00006795](VECTOR ISSUE): status is BARRING
+[info] [00006807](VECTOR ISSUE): status is NORMAL
+[info] [00006981](VECTOR ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L2_PIPE
+[info] [00006991] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 1
+[info] [00006991] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 0
+[info] [00006991](MTE3 ISSUE): status is NORMAL
+[info] [00006993](MTE3 ISSUE): status is WAIT_SYNC_EVENT, source pipe is VECTOR_PIPE
+[info] [00007590] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 0, num is 1
+[info] [00007590] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 0, num is 0
+[info] [00007590](MTE2 ISSUE): status is NORMAL
+[info] [00007592](MTE2 ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L3_PIPE
+[info] [00007945] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 1, num is 1
+[info] [00007945] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 1, num is 0
+[info] [00007945](MTE2 ISSUE): status is NORMAL
+[info] [00007947](MTE2 ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L3_PIPE
+[info] [00008500] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 1
+[info] [00008501] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 0
+[info] [00008501](VECTOR ISSUE): status is NORMAL
+[info] [00008666](VECTOR ISSUE): status is BARRING
+[info] [00008678](VECTOR ISSUE): status is NORMAL
+[info] [00008685] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 1
+[info] [00008996](VECTOR ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L2_PIPE
+[info] [00008998] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 0
+[info] [00008998](VECTOR ISSUE): status is NORMAL
+[info] [00009006] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 1
+[info] [00009006] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 0
+[info] [00009006](MTE3 ISSUE): status is NORMAL
+[info] [00009008](MTE3 ISSUE): status is WAIT_SYNC_EVENT, source pipe is VECTOR_PIPE
+[info] [00009093](VECTOR ISSUE): status is BARRING
+[info] [00009105](VECTOR ISSUE): status is NORMAL
+[info] [00009279](VECTOR ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L2_PIPE
+[info] [00009289] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 1
+[info] [00009289] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 0
+[info] [00009289](MTE3 ISSUE): status is NORMAL
+[info] [00009291](MTE3 ISSUE): status is WAIT_SYNC_EVENT, source pipe is VECTOR_PIPE
+[info] [00009868] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 0, num is 1
+[info] [00009868] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 0, num is 0
+[info] [00009868](MTE2 ISSUE): status is NORMAL
+[info] [00009870](MTE2 ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L3_PIPE
+[info] [00010212] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 1, num is 1
+[info] [00010212] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 1, num is 0
+[info] [00010212](MTE2 ISSUE): status is NORMAL
+[info] [00010214](MTE2 ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L3_PIPE
+[info] [00010778] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 1
+[info] [00010779] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 0
+[info] [00010779](VECTOR ISSUE): status is NORMAL
+[info] [00010944](VECTOR ISSUE): status is BARRING
+[info] [00010956](VECTOR ISSUE): status is NORMAL
+[info] [00010968] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 1
+[info] [00011274](VECTOR ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L2_PIPE
+[info] [00011276] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 0
+[info] [00011276](VECTOR ISSUE): status is NORMAL
+[info] [00011284] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 1
+[info] [00011284] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 0
+[info] [00011284](MTE3 ISSUE): status is NORMAL
+[info] [00011286](MTE3 ISSUE): status is WAIT_SYNC_EVENT, source pipe is VECTOR_PIPE
+[info] [00011371](VECTOR ISSUE): status is BARRING
+[info] [00011383](VECTOR ISSUE): status is NORMAL
+[info] [00011557](VECTOR ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L2_PIPE
+[info] [00011567] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 1
+[info] [00011567] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 0
+[info] [00011567](MTE3 ISSUE): status is NORMAL
+[info] [00011569](MTE3 ISSUE): status is WAIT_SYNC_EVENT, source pipe is VECTOR_PIPE
+[info] [00012146] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 0, num is 1
+[info] [00012146] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 0, num is 0
+[info] [00012146](MTE2 ISSUE): status is NORMAL
+[info] [00012148](MTE2 ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L3_PIPE
+[info] [00012506] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 1, num is 1
+[info] [00012506] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 1, num is 0
+[info] [00012506](MTE2 ISSUE): status is NORMAL
+[info] [00012508](MTE2 ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L3_PIPE
+[info] [00013045] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 1
+[info] [00013046] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 0
+[info] [00013046](VECTOR ISSUE): status is NORMAL
+[info] [00013211](VECTOR ISSUE): status is BARRING
+[info] [00013223](VECTOR ISSUE): status is NORMAL
+[info] [00013232] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 1
+[info] [00013541](VECTOR ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L2_PIPE
+[info] [00013543] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 0
+[info] [00013543](VECTOR ISSUE): status is NORMAL
+[info] [00013551] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 1
+[info] [00013551] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 0
+[info] [00013551](MTE3 ISSUE): status is NORMAL
+[info] [00013553](MTE3 ISSUE): status is WAIT_SYNC_EVENT, source pipe is VECTOR_PIPE
+[info] [00013638](VECTOR ISSUE): status is BARRING
+[info] [00013650](VECTOR ISSUE): status is NORMAL
+[info] [00013824](VECTOR ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L2_PIPE
+[info] [00013834] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 1
+[info] [00013834] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 0
+[info] [00013834](MTE3 ISSUE): status is NORMAL
+[info] [00013836](MTE3 ISSUE): status is WAIT_SYNC_EVENT, source pipe is VECTOR_PIPE
+[info] [00014433] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 0, num is 1
+[info] [00014433] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 0, num is 0
+[info] [00014433](MTE2 ISSUE): status is NORMAL
+[info] [00014435](MTE2 ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L3_PIPE
+[info] [00014796] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 1, num is 1
+[info] [00014796] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 1, num is 0
+[info] [00014796](MTE2 ISSUE): status is NORMAL
+[info] [00014798](MTE2 ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L3_PIPE
+[info] [00015328] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 1
+[info] [00015329] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 0
+[info] [00015329](VECTOR ISSUE): status is NORMAL
+[info] [00015494](VECTOR ISSUE): status is BARRING
+[info] [00015506](VECTOR ISSUE): status is NORMAL
+[info] [00015531] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 1
+[info] [00015824](VECTOR ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L2_PIPE
+[info] [00015826] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 0
+[info] [00015826](VECTOR ISSUE): status is NORMAL
+[info] [00015834] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 1
+[info] [00015834] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 0
+[info] [00015834](MTE3 ISSUE): status is NORMAL
+[info] [00015836](MTE3 ISSUE): status is WAIT_SYNC_EVENT, source pipe is VECTOR_PIPE
+[info] [00015921](VECTOR ISSUE): status is BARRING
+[info] [00015933](VECTOR ISSUE): status is NORMAL
+[info] [00016107](VECTOR ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L2_PIPE
+[info] [00016117] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 1
+[info] [00016117] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 0
+[info] [00016117](MTE3 ISSUE): status is NORMAL
+[info] [00016119](MTE3 ISSUE): status is WAIT_SYNC_EVENT, source pipe is VECTOR_PIPE
+[info] [00016726] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 0, num is 1
+[info] [00016726] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 0, num is 0
+[info] [00016726](MTE2 ISSUE): status is NORMAL
+[info] [00016728](MTE2 ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L3_PIPE
+[info] [00017050] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 1, num is 1
+[info] [00017050] event: src pipe is DMAC_L3_PIPE, dst pipe is DMAC_L2_PIPE, id is 1, num is 0
+[info] [00017050](MTE2 ISSUE): status is NORMAL
+[info] [00017624] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 1
+[info] [00017625] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 0
+[info] [00017625](VECTOR ISSUE): status is NORMAL
+[info] [00017790](VECTOR ISSUE): status is BARRING
+[info] [00017802](VECTOR ISSUE): status is NORMAL
+[info] [00017810] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 1
+[info] [00018120](VECTOR ISSUE): status is WAIT_SYNC_EVENT, source pipe is DMAC_L2_PIPE
+[info] [00018122] event: src pipe is DMAC_L2_PIPE, dst pipe is VECTOR_PIPE, id is 0, num is 0
+[info] [00018122](VECTOR ISSUE): status is NORMAL
+[info] [00018130] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 1
+[info] [00018130] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 0
+[info] [00018130](MTE3 ISSUE): status is NORMAL
+[info] [00018131](MTE3 ISSUE): status is WAIT_SYNC_EVENT, source pipe is VECTOR_PIPE
+[info] [00018217](VECTOR ISSUE): status is BARRING
+[info] [00018229](VECTOR ISSUE): status is NORMAL
+[info] [00018413] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 1
+[info] [00018413] event: src pipe is VECTOR_PIPE, dst pipe is DMAC_L3_PIPE, id is 0, num is 0
+[info] [00018413](MTE3 ISSUE): status is NORMAL
+[info] ++++++++++++++++++++++core: 0, tick: 19393, kernal0 blkID 0 of blkdim 2 done++++++++++++++++++++++.
+

@@ -1,0 +1,14 @@
+{
+  "AbsNpu": {
+    "isGray": false,
+    "isHeavy": false
+  },
+  "LeakyReluNpu": {
+    "isGray": false,
+    "isHeavy": false
+  },
+  "WuReluNpu": {
+    "isGray": false,
+    "isHeavy": false
+  }
+}

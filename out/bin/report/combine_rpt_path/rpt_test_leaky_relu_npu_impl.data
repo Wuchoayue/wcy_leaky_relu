@@ -1,0 +1,642 @@
+{
+    "run_cmd": null,
+    "report_list": [
+        {
+            "op_type": "leakey_relu_npu",
+            "case_name": "test_leakey_relu_npu_auto_case_name_1",
+            "run_soc": "Ascend310",
+            "status": "success",
+            "err_msg": null,
+            "trace_detail": {
+                "run_soc": "Ascend310",
+                "ut_case_info": {
+                    "support_soc": [
+                        "Ascend610",
+                        "Ascend310"
+                    ],
+                    "op_type": "leakey_relu_npu",
+                    "case_name": "test_leakey_relu_npu_auto_case_name_1",
+                    "op_params": [
+                        {
+                            "dtype": "float32",
+                            "shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "format": "NCHW",
+                            "ori_shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "ori_format": "NCHW",
+                            "data_path": null,
+                            "expect_data_path": null,
+                            "range": null
+                        },
+                        {
+                            "dtype": "float32",
+                            "shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "format": "NCHW",
+                            "ori_shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "ori_format": "NCHW",
+                            "data_path": null,
+                            "expect_data_path": null,
+                            "range": null
+                        },
+                        0
+                    ],
+                    "addition_params": null,
+                    "expect": "success",
+                    "case_usage": "compile",
+                    "case_file": "/home/wu/wcy_leaky_relu/testcases/ut/ops_test/leaky_relu_npu/test_leaky_relu_npu_impl.py",
+                    "case_line_num": 21,
+                    "precision_standard": null,
+                    "op_imply_type": "static_shape"
+                },
+                "stage_result": [
+                    {
+                        "status": "success",
+                        "result": null,
+                        "err_msg": null,
+                        "stage_name": null,
+                        "err_trace": null
+                    }
+                ]
+            }
+        },
+        {
+            "op_type": "leakey_relu_npu",
+            "case_name": "test_leakey_relu_npu_auto_case_name_2",
+            "run_soc": "Ascend310",
+            "status": "success",
+            "err_msg": null,
+            "trace_detail": {
+                "run_soc": "Ascend310",
+                "ut_case_info": {
+                    "support_soc": [
+                        "Ascend610",
+                        "Ascend310"
+                    ],
+                    "op_type": "leakey_relu_npu",
+                    "case_name": "test_leakey_relu_npu_auto_case_name_2",
+                    "op_params": [
+                        {
+                            "dtype": "float16",
+                            "shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "format": "NCHW",
+                            "ori_shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "ori_format": "NCHW",
+                            "data_path": null,
+                            "expect_data_path": null,
+                            "range": null
+                        },
+                        {
+                            "dtype": "float16",
+                            "shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "format": "NCHW",
+                            "ori_shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "ori_format": "NCHW",
+                            "data_path": null,
+                            "expect_data_path": null,
+                            "range": null
+                        },
+                        0
+                    ],
+                    "addition_params": null,
+                    "expect": "success",
+                    "case_usage": "compile",
+                    "case_file": "/home/wu/wcy_leaky_relu/testcases/ut/ops_test/leaky_relu_npu/test_leaky_relu_npu_impl.py",
+                    "case_line_num": 38,
+                    "precision_standard": null,
+                    "op_imply_type": "static_shape"
+                },
+                "stage_result": [
+                    {
+                        "status": "success",
+                        "result": null,
+                        "err_msg": null,
+                        "stage_name": null,
+                        "err_trace": null
+                    }
+                ]
+            }
+        },
+        {
+            "op_type": "leakey_relu_npu",
+            "case_name": "test_leakey_relu_npu_auto_case_name_3",
+            "run_soc": "Ascend310",
+            "status": "success",
+            "err_msg": null,
+            "trace_detail": {
+                "run_soc": "Ascend310",
+                "ut_case_info": {
+                    "support_soc": [
+                        "Ascend610",
+                        "Ascend310"
+                    ],
+                    "op_type": "leakey_relu_npu",
+                    "case_name": "test_leakey_relu_npu_auto_case_name_3",
+                    "op_params": [
+                        {
+                            "dtype": "float16",
+                            "shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "format": "NCHW",
+                            "ori_shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "ori_format": "NCHW",
+                            "data_path": null,
+                            "expect_data_path": null,
+                            "range": null
+                        },
+                        {
+                            "dtype": "float16",
+                            "shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "format": "NCHW",
+                            "ori_shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "ori_format": "NCHW",
+                            "data_path": null,
+                            "expect_data_path": null,
+                            "range": null
+                        },
+                        -1
+                    ],
+                    "addition_params": null,
+                    "expect": "success",
+                    "case_usage": "compile",
+                    "case_file": "/home/wu/wcy_leaky_relu/testcases/ut/ops_test/leaky_relu_npu/test_leaky_relu_npu_impl.py",
+                    "case_line_num": 55,
+                    "precision_standard": null,
+                    "op_imply_type": "static_shape"
+                },
+                "stage_result": [
+                    {
+                        "status": "success",
+                        "result": null,
+                        "err_msg": null,
+                        "stage_name": null,
+                        "err_trace": null
+                    }
+                ]
+            }
+        },
+        {
+            "op_type": "leakey_relu_npu",
+            "case_name": "test_leakey_relu_npu_auto_case_name_4",
+            "run_soc": "Ascend310",
+            "status": "success",
+            "err_msg": null,
+            "trace_detail": {
+                "run_soc": "Ascend310",
+                "ut_case_info": {
+                    "support_soc": [
+                        "Ascend610",
+                        "Ascend310"
+                    ],
+                    "op_type": "leakey_relu_npu",
+                    "case_name": "test_leakey_relu_npu_auto_case_name_4",
+                    "op_params": [
+                        {
+                            "dtype": "float16",
+                            "shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "format": "NCHW",
+                            "ori_shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "ori_format": "NCHW",
+                            "data_path": null,
+                            "expect_data_path": null,
+                            "range": null
+                        },
+                        {
+                            "dtype": "float16",
+                            "shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "format": "NCHW",
+                            "ori_shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "ori_format": "NCHW",
+                            "data_path": null,
+                            "expect_data_path": null,
+                            "range": null
+                        },
+                        2
+                    ],
+                    "addition_params": null,
+                    "expect": "success",
+                    "case_usage": "compile",
+                    "case_file": "/home/wu/wcy_leaky_relu/testcases/ut/ops_test/leaky_relu_npu/test_leaky_relu_npu_impl.py",
+                    "case_line_num": 72,
+                    "precision_standard": null,
+                    "op_imply_type": "static_shape"
+                },
+                "stage_result": [
+                    {
+                        "status": "success",
+                        "result": null,
+                        "err_msg": null,
+                        "stage_name": null,
+                        "err_trace": null
+                    }
+                ]
+            }
+        },
+        {
+            "op_type": "leakey_relu_npu",
+            "case_name": "test_leakey_relu_npu_auto_case_name_5",
+            "run_soc": "Ascend310",
+            "status": "success",
+            "err_msg": null,
+            "trace_detail": {
+                "run_soc": "Ascend310",
+                "ut_case_info": {
+                    "support_soc": [
+                        "Ascend610",
+                        "Ascend310"
+                    ],
+                    "op_type": "leakey_relu_npu",
+                    "case_name": "test_leakey_relu_npu_auto_case_name_5",
+                    "op_params": [
+                        {
+                            "dtype": "int8",
+                            "shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "format": "NCHW",
+                            "ori_shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "ori_format": "NCHW",
+                            "data_path": null,
+                            "expect_data_path": null,
+                            "range": null
+                        },
+                        {
+                            "dtype": "int8",
+                            "shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "format": "NCHW",
+                            "ori_shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "ori_format": "NCHW",
+                            "data_path": null,
+                            "expect_data_path": null,
+                            "range": null
+                        },
+                        -1
+                    ],
+                    "addition_params": null,
+                    "expect": "success",
+                    "case_usage": "compile",
+                    "case_file": "/home/wu/wcy_leaky_relu/testcases/ut/ops_test/leaky_relu_npu/test_leaky_relu_npu_impl.py",
+                    "case_line_num": 89,
+                    "precision_standard": null,
+                    "op_imply_type": "static_shape"
+                },
+                "stage_result": [
+                    {
+                        "status": "success",
+                        "result": null,
+                        "err_msg": null,
+                        "stage_name": null,
+                        "err_trace": null
+                    }
+                ]
+            }
+        },
+        {
+            "op_type": "leakey_relu_npu",
+            "case_name": "test_leakey_relu_npu_auto_case_name_6",
+            "run_soc": "Ascend310",
+            "status": "success",
+            "err_msg": null,
+            "trace_detail": {
+                "run_soc": "Ascend310",
+                "ut_case_info": {
+                    "support_soc": [
+                        "Ascend610",
+                        "Ascend310"
+                    ],
+                    "op_type": "leakey_relu_npu",
+                    "case_name": "test_leakey_relu_npu_auto_case_name_6",
+                    "op_params": [
+                        {
+                            "dtype": "int8",
+                            "shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "format": "NCHW",
+                            "ori_shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "ori_format": "NCHW",
+                            "data_path": null,
+                            "expect_data_path": null,
+                            "range": null
+                        },
+                        {
+                            "dtype": "int8",
+                            "shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "format": "NCHW",
+                            "ori_shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "ori_format": "NCHW",
+                            "data_path": null,
+                            "expect_data_path": null,
+                            "range": null
+                        },
+                        2
+                    ],
+                    "addition_params": null,
+                    "expect": "success",
+                    "case_usage": "compile",
+                    "case_file": "/home/wu/wcy_leaky_relu/testcases/ut/ops_test/leaky_relu_npu/test_leaky_relu_npu_impl.py",
+                    "case_line_num": 106,
+                    "precision_standard": null,
+                    "op_imply_type": "static_shape"
+                },
+                "stage_result": [
+                    {
+                        "status": "success",
+                        "result": null,
+                        "err_msg": null,
+                        "stage_name": null,
+                        "err_trace": null
+                    }
+                ]
+            }
+        },
+        {
+            "op_type": "leakey_relu_npu",
+            "case_name": "test_leakey_relu_npu_auto_case_name_7",
+            "run_soc": "Ascend310",
+            "status": "failed",
+            "err_msg": "Run op not as expect, expect: success, but: success, error msg: leaky relu only support float16,float32,int32,int8 while dtype is float64",
+            "trace_detail": {
+                "run_soc": "Ascend310",
+                "ut_case_info": {
+                    "support_soc": [
+                        "Ascend610",
+                        "Ascend310"
+                    ],
+                    "op_type": "leakey_relu_npu",
+                    "case_name": "test_leakey_relu_npu_auto_case_name_7",
+                    "op_params": [
+                        {
+                            "dtype": "float64",
+                            "shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "format": "NCHW",
+                            "ori_shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "ori_format": "NCHW",
+                            "data_path": null,
+                            "expect_data_path": null,
+                            "range": null
+                        },
+                        {
+                            "dtype": "float64",
+                            "shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "format": "NCHW",
+                            "ori_shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "ori_format": "NCHW",
+                            "data_path": null,
+                            "expect_data_path": null,
+                            "range": null
+                        },
+                        2
+                    ],
+                    "addition_params": null,
+                    "expect": "success",
+                    "case_usage": "compile",
+                    "case_file": "/home/wu/wcy_leaky_relu/testcases/ut/ops_test/leaky_relu_npu/test_leaky_relu_npu_impl.py",
+                    "case_line_num": 123,
+                    "precision_standard": null,
+                    "op_imply_type": "static_shape"
+                },
+                "stage_result": [
+                    {
+                        "status": "failed",
+                        "result": null,
+                        "err_msg": "Run op not as expect, expect: success, but: success, error msg: leaky relu only support float16,float32,int32,int8 while dtype is float64",
+                        "stage_name": null,
+                        "err_trace": "Traceback (most recent call last):\n  File \"/home/wu/.mindstudio/huawei/adk/3.10.T0.0.B260/toolkit/python/site-packages/op_test_frame/ut/op_ut.py\", line 230, in _run_op_compile\n    func_info.func(*case_info.op_params, **kernel_name_params)\n  File \"/home/wu/wcy_leaky_relu/tbe/impl/leaky_relu_npu.py\", line 104, in leaky_relu_demo\n    % (\",\".join(check_list), dtype))\nRuntimeError: leaky relu only support float16,float32,int32,int8 while dtype is float64\n"
+                    }
+                ]
+            }
+        },
+        {
+            "op_type": "leakey_relu_npu",
+            "case_name": "test_leaky_relu_npu_precision",
+            "run_soc": "Ascend310",
+            "status": "success",
+            "err_msg": null,
+            "trace_detail": {
+                "run_soc": "Ascend310",
+                "ut_case_info": {
+                    "support_soc": [
+                        "Ascend610",
+                        "Ascend310"
+                    ],
+                    "op_type": "leakey_relu_npu",
+                    "case_name": "test_leaky_relu_npu_precision",
+                    "op_params": [
+                        {
+                            "dtype": "float32",
+                            "shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "format": "ND",
+                            "ori_shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "ori_format": "ND",
+                            "data_path": "./data/leakey_relu_npu/test_leaky_relu_npu_precision_input0.bin",
+                            "expect_data_path": null,
+                            "range": null
+                        },
+                        {
+                            "dtype": "float32",
+                            "shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "format": "ND",
+                            "ori_shape": [
+                                1,
+                                16,
+                                128,
+                                128
+                            ],
+                            "ori_format": "ND",
+                            "data_path": "/home/wu/wcy_leaky_relu/out/bin/data/leakey_relu_npu/test_leaky_relu_npu_precision_output0.bin",
+                            "expect_data_path": "/home/wu/wcy_leaky_relu/out/bin/data/leakey_relu_npu/test_leaky_relu_npu_precision_expect_output0.bin",
+                            "range": null
+                        },
+                        0.1
+                    ],
+                    "addition_params": null,
+                    "expect": "success",
+                    "case_usage": "precision",
+                    "case_file": "/home/wu/wcy_leaky_relu/testcases/ut/ops_test/leaky_relu_npu/test_leaky_relu_npu_impl.py",
+                    "case_line_num": 157,
+                    "precision_standard": null,
+                    "op_imply_type": "static_shape"
+                },
+                "stage_result": [
+                    {
+                        "status": "success",
+                        "result": null,
+                        "err_msg": null,
+                        "stage_name": null,
+                        "err_trace": null
+                    },
+                    {
+                        "status": "success",
+                        "result": null,
+                        "err_msg": null,
+                        "stage_name": null,
+                        "err_trace": null
+                    },
+                    {
+                        "status": "success",
+                        "result": null,
+                        "err_msg": null,
+                        "stage_name": null,
+                        "err_trace": null
+                    },
+                    {
+                        "status": "success",
+                        "result": null,
+                        "err_msg": null,
+                        "stage_name": null,
+                        "err_trace": null
+                    }
+                ]
+            }
+        }
+    ]
+}

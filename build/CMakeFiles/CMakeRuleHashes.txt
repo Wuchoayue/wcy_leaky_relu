@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+1ae621e5fff89470eae6ec7f09868b42 CMakeFiles/custom_opp_ubuntu_x86_64.run
+c5a374f88fdf7be956b8c1c96908dfcc tbe/CMakeFiles/config_json
+a543f224b5fa778d934c6c7730f9427c tbe/aic-ascend310-ops-info.json
+32ae4a7b7b832b6fdb434b1e121a4bd6 tbe/aic-ascend610-ops-info.json

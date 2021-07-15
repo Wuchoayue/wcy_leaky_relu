@@ -1,0 +1,13 @@
+{
+    "binFileName":"test_leaky_relu_npu_precision",
+    "binFileSuffix":".o",
+    "blockDim":2,
+    "kernelName":"test_leaky_relu_npu_precision__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "opParaSize":0,
+    "parameters":[
+        0,
+        0
+    ],
+    "sha256":"e0eb2b29f134b148a6e1892f90b8f40db5adb09c639475a7129c77998c0a3522"
+}
